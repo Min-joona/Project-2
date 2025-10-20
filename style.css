@@ -136,9 +136,7 @@ ul li:hover{
         font-size: 1.2em;
         padding: 15px 10px; 
         width: 32%; 
-        position: absolute;
-        left: 10;
-        bottom: 25%;
+       
     }
 }
 
